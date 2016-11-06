@@ -1,0 +1,54 @@
+body {
+  font-family: 'Alegreya', serif;
+    margin: 0;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#orange {
+ background-color:#f16528;
+  width: 50%;
+  float:left;
+  margin:auto;
+  height:800px;
+}
+
+#blue {
+  background-color:#409ad6;
+  float:right;
+  width: 50%;
+  margin:auto;
+  height:800px;
+}
+
+#css3 {
+  margin-left:130px;
+  margin-top: 40px;
+  border-radius: 70%;
+  position: absolute;
+}
+
+#html5 {
+  margin-left:130px;
+  margin-top: 40px;
+  border-radius: 70%;
+  position: absolute;
+
+}
+
+.firstpart {
+  font-size:40px;
+  font-weight: bold;
+  margin-left:270px ;
+  margin-top: 70px;
+}
+
+.secondpart {
+  font-size:40px;
+  font-weight: bold;
+  margin-left:100px ;
+  margin-top: 70px;
+}
